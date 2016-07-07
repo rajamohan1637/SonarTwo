@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.wakaleo.gameoflife.domain.WhenYouPrintAGrid" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-07-07T07:15:45" hostname="IBM801-PC0CRMUX" time="0.0">
+  <properties/>
+  <testcase name="shouldBeAbleToReadAStringGridContainingLiveAndDeadCells" classname="com.wakaleo.gameoflife.domain.WhenYouPrintAGrid" time="0.0"/>
+  <testcase name="shouldBeAbleToReadALargeStringGridContainingLiveAndDeadCells" classname="com.wakaleo.gameoflife.domain.WhenYouPrintAGrid" time="0.0"/>
+  <testcase name="shouldBeAbleToReadAGridOfCellsFromAString" classname="com.wakaleo.gameoflife.domain.WhenYouPrintAGrid" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
